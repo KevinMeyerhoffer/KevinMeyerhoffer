@@ -7,6 +7,8 @@ After several months of self-taught learning, decision is made, I want to make i
 
 - 🌱 I’m currently learning HTML / CSS / JS / REACT 
 
+<img align="right" alt="GIF" src="https://github.com/KevinMeyerhoffer/KevinMeyerhoffer/blob/main/code.gif?raw=true" width="500" height="320" />
+
 - ⚡ Fun fact: I've been a train driver 
 
 ![github](https://github.com/KevinMeyerhoffer/KevinMeyerhoffer/blob/main/code.gif)
