@@ -9,4 +9,5 @@ After several months of self-taught learning, decision is made, I want to make i
 
 - ⚡ Fun fact: I've been a train driver 
 
+![github](https://github.com/KevinMeyerhoffer/KevinMeyerhoffer/blob/main/code.gif)
 
