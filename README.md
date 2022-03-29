@@ -13,4 +13,4 @@ I want to make it **my job**, and decided to make the journey to o'clock
 
 - 🌱  Currently learning HTML / CSS / JS / REACT 
 
-- 🚉  Fun fact: I've been a train driver and a football referee
+- 💡  Fun fact: I've been a train driver and a football referee
